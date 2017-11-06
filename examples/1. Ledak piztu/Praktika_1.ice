@@ -12,19 +12,19 @@
     "graph": {
       "blocks": [
         {
-          "id": "638eeb51-d7b3-42f2-8bf0-f899767a1709",
+          "id": "02be23d5-8866-4d1d-bc0d-e3a0b72bfae4",
           "type": "basic.info",
           "data": {
-            "info": "Ariketa:\n\nPultsadorea sakatzean, piz itzazu zure roboteko 2 led \neta beste 3 ledak itzali.",
+            "info": "<FONT FACE=\"verdana\" SIZE=5 COLOR=red>PRAKTIKA:</FONT>\n\n<FONT FACE=\"verdana\" SIZE=4 COLOR=green>Pultsadorea sakatzean, piz itzazu zure roboteko 2 led \neta beste 3 ledak itzali.</FONT>\n\n<FONT FACE=\"verdana\" SIZE=5 COLOR=blue>Plakan konexioak</FONT>\n\n<img src=\"https://raw.githubusercontent.com/Lorea-Aldabaldetreku/Robotika-tailerra/master/pictures/icezumledak.png\" WIDTH=400>\n</img>\n",
             "readonly": true
           },
           "position": {
-            "x": -808,
-            "y": -512
+            "x": -1856,
+            "y": -1160
           },
           "size": {
-            "width": 544,
-            "height": 224
+            "width": 1136,
+            "height": 176
           }
         }
       ],
@@ -32,10 +32,10 @@
     },
     "state": {
       "pan": {
-        "x": 851,
-        "y": 543
+        "x": 1616.7282,
+        "y": 997.7351
       },
-      "zoom": 1
+      "zoom": 0.8095
     }
   },
   "dependencies": {}
