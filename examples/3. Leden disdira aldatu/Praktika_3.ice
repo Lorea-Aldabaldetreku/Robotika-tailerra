@@ -15,16 +15,16 @@
           "id": "dfc7ea9b-1a60-4f80-80d1-43fea30eb42e",
           "type": "basic.info",
           "data": {
-            "info": "Praktika:\nZure robotaren leden disdira alda itzazue.",
+            "info": "<FONT FACE=\"verdana\" SIZE=5 COLOR=red>PRAKTIKA:</FONT>\n\n<FONT FACE=\"verdana\" SIZE=4 COLOR=green>Zure robotaren leden disdira alda ezazue.</FONT>\n\n<FONT FACE=\"verdana\" SIZE=5 COLOR=blue>Plakan konexioak</FONT>\n\n<img src=\"https://raw.githubusercontent.com/Lorea-Aldabaldetreku/Robotika-tailerra/master/pictures/icezumledak.png\" WIDTH=400>\n</img>\n",
             "readonly": true
           },
           "position": {
-            "x": -704,
-            "y": -368
+            "x": -928,
+            "y": -568
           },
           "size": {
-            "width": 384,
-            "height": 80
+            "width": 704,
+            "height": 272
           }
         }
       ],
@@ -32,8 +32,8 @@
     },
     "state": {
       "pan": {
-        "x": 737,
-        "y": 405.5
+        "x": 971,
+        "y": 615
       },
       "zoom": 1
     }
